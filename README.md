@@ -1,5 +1,4 @@
 # CSG Hackathon - 2021
-====
 
 ## Project
 This project solve the issue related to AWS IAM User's Access Key Rotation.
@@ -42,6 +41,4 @@ This implementation are considering local terraform lock, therefore, the state o
 
 To remove everything run: terraform destroy --auto-approve
 
-=======
-by Henrique do Prado Cezar ( henrique.cezar@csgi.com )
-=======
+> by Henrique do Prado Cezar ( henrique.cezar@csgi.com )
