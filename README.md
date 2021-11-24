@@ -41,4 +41,4 @@ This implementation are considering local terraform lock, therefore, the state o
 
 To remove everything run: terraform destroy --auto-approve
 
-> by Henrique do Prado Cezar ( henrique.cezar@csgi.com )
+> by Henrique do Prado Cezar ( henrique.hpc@gmail.com )
